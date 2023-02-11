@@ -24,6 +24,12 @@
   color: white;
 }
 
+.custom-nav {
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+}
+
 .App-link {
   color: #61dafb;
 }
